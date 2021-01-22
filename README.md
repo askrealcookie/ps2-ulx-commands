@@ -4,7 +4,7 @@ Every command is accessible through ULX XGUI
 
 ### ulx classlist
 Prints to console all PS2 classes. It can be used for next command. (class name is one in quotes)
-![classlist example](https://i.imgur.com/lKylZmf.png
+![classlist example](https://i.imgur.com/lKylZmf.png)
 
 #### Example:
 ``ulx classlist``
