@@ -6,6 +6,7 @@ Every command is accessible through ULX XGUI
 Prints to console all PS2 classes. It can be used for next command. (class name is one in quotes)
 #### Example:
 ``ulx classlist``
+
 ![classlist example](https://i.imgur.com/lKylZmf.png)
 
 ### ulx giveitem
