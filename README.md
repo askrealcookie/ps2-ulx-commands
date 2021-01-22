@@ -4,10 +4,9 @@ Every command is accessible through ULX XGUI
 
 ### ulx classlist
 Prints to console all PS2 classes. It can be used for next command. (class name is one in quotes)
-![classlist example](https://i.imgur.com/lKylZmf.png)
-
 #### Example:
 ``ulx classlist``
+![classlist example](https://i.imgur.com/lKylZmf.png)
 
 ### ulx giveitem
 Unlike ``inv giveitem`` provided by PS2 command, this one is accessible through XGUI. Specify player and class name(you can obtain one from previous command)
